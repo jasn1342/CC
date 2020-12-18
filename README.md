@@ -1,1 +1,1 @@
-# CC
+# CC Project - Learn Python: Syntax
