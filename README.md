@@ -1,1 +1,1 @@
-# CC Project - Learn Python: Syntax
+# Create Purchasing Information and Receipts for Lovely Loveseats
